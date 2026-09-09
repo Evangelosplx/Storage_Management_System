@@ -1,0 +1,15 @@
+# Compiled object files
+*.o
+
+# Executables / binaries
+tester
+jbod_server
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+
+# Misc / scratch
+my-output
+x
